@@ -1,3 +1,5 @@
+![Mi Banner de GitHub](https://github.com/JerathRomero/JerathRomero/blob/0e4ef31d90daba2819bb371b2dfa4d8d16969841/Gemini_Generated_Image_flx4u9flx4u9flx4.png)
+
 ## Hi there 👋
 
 <!--
